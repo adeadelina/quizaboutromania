@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">About Romania quiz</string>
+    <string name="question_1">Who was Dracula?</string>
+    <string name="answer_1a">a vampire</string>
+    <string name="answer_1b">a Game of Thrones character</string>
+    <string name="answer_1c">a superhero</string>
+    <string name="answer_1d">a Walachian ruler</string>
+    <string name="question_2">What city in Romania has a sign like Hollywood\'s?</string>
+    <string name="answer_2a">Bucharest</string>
+    <string name="answer_2b">Brasov</string>
+    <string name="answer_2c">Cluj</string>
+    <string name="answer_2d">Sighisoara</string>
+    <string name="question_3">Name Romania\'s neighboring country that speaks the same language?</string>
+    <string name="question_4">Which family of languages does Romanian belong to?</string>
+    <string name="answer_4a">latin</string>
+    <string name="answer_4b">slavic</string>
+    <string name="answer_4c">germanic</string>
+    <string name="question_5">In which region of Romania can you find the only merry cemetery in the world?</string>
+    <string name="answer_5a">Transilvania</string>
+    <string name="answer_5b">Moldavia </string>
+    <string name="answer_5c">Maramures</string>
+    <string name="answer_5d">Wallachia</string>
+    <string name="question_6">Was Romania ever a monarchy?</string>
+    <string name="answer_6a">Yes</string>
+    <string name="answer_6b">No</string>
+    <string name="submit">Submit answers</string>
+
+</resources>
